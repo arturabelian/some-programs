@@ -25,3 +25,6 @@ while numb <= limit:
         numb += 1
 
 print(result)
+
+# Введите число: 1000
+# [153, 370, 407]

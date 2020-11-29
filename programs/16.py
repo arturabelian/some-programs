@@ -13,3 +13,18 @@ limit = input("Введите число: ")
 limit = int(limit)
 collatz_hypothesis(limit)
 print(1)
+
+# Введите число: 640
+# 640
+# 320
+# 160
+# 80
+# 40
+# 20
+# 10
+# 5
+# 16
+# 8
+# 4
+# 2
+# 1

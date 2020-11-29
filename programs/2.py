@@ -2,7 +2,6 @@
 
 # -*- coding: utf-8 -*-
 
-# Импорт.
 import socket
 
 sock = socket.socket()

@@ -16,3 +16,7 @@ while numb <= limit:
         print(numb)
     numb += 1
 
+# Введите число: 1000
+# 6
+# 28
+# 496
