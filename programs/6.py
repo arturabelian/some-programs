@@ -11,7 +11,7 @@ def random_message():
     return message
 
 word_length = 7
-word = "HELP ME"
+word = "HELP"
 random_word = ''
 counter = 0
 
